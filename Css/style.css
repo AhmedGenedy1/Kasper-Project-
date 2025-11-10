@@ -567,7 +567,7 @@ height: 100%;
 /* End Skilles */
 /* Start Quot */
 .quot {
-  background-image: url(/image/quote.jpg);
+  background-image: url(../image/quote.jpg);
   background-size: cover;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
@@ -837,4 +837,5 @@ padding: 10px 20px;
   font-weight: bold;
   color: var(--main-color);
 }
+
 /* End Footer */
